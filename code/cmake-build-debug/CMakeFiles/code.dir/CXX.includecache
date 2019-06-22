@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/GitHubs/PC4/code/Matriz.h
+iostream
+-
+
+C:/Users/felix/GitHubs/PC4/code/MatrizConcurrente.h
+
+C:/Users/felix/GitHubs/PC4/code/main.cpp
+Matriz.h
+C:/Users/felix/GitHubs/PC4/code/Matriz.h
+MatrizConcurrente.h
+C:/Users/felix/GitHubs/PC4/code/MatrizConcurrente.h
+random
+-
+
